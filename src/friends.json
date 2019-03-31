@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "49ers",
+    "image": "assets/images/49ers.png",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "cardinals",
+    "image": "assets/images/cardinals.png",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "chiefs",
+    "image": "assets/images/chiefs.png",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "colts",
+    "image": "assets/images/colts.png",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "name": "falcons",
+    "image": "assets/images/falcons.png",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "giants",
+    "image": "assets/images/giants.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "lions",
+    "image": "assets/images/lions.png",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "rams",
+    "image": "assets/images/rams.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "cowboys",
+    "image": "assets/images/cowboys.png",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "ravens",
+    "image": "assets/images/ravens.png",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "saints",
+    "image": "assets/images/saints.png",
+    "isClicked": false
+  },
+  {
+    "id": 12,
+    "name": "steelers",
+    "image": "assets/images/steelers.png",
+    "isClicked": false
+  }
+]
