@@ -7,7 +7,6 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8",
-    "node": "8.12.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,5 +22,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddyt53/ClickyGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddyt53/ClickyGame/issues"
+  },
+  "homepage": "https://github.com/freddyt53/ClickyGame#readme"
 }
